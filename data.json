@@ -1,0 +1,1844 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 1.0,
+            "Lokasi": "TEV Escape Building Peukan Bada",
+            "Lat": 5.535259,
+            "Lon": 95.28262,
+            "Elev": "18",
+            "Waktu_temp": "7 menit dari SMAN 1 Peukan Bada",
+            "Kondisi_Ra": "ada",
+            "Desa": "Lamjamee",
+            "Kecamatan": "Jaya Baru",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.28262, 5.535259] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 2.0,
+            "Lokasi": "Bukit Desa Lamtutui",
+            "Lat": 5.539238,
+            "Lon": 95.256272,
+            "Elev": "11",
+            "Waktu_temp": "4 menit dari jalan utama (gapura desa Lamtutui)",
+            "Kondisi_Ra": "ada",
+            "Desa": "Lamtutui",
+            "Kecamatan": "Peukan Bada",
+            "Kabupaten": "Aceh Besar",
+            "Keterangan": "TES / bukit dipagari kawat, dipergunakan sebagai penangkaran sapi"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.256272, 5.539238] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 3.0,
+            "Lokasi": "TDMRC Ulee Lheue",
+            "Lat": 5.553586,
+            "Lon": 95.285707,
+            "Elev": "11",
+            "Waktu_temp": "20 menit dari Pelabuhan Ulee Lheue",
+            "Kondisi_Ra": "ada",
+            "Desa": "Ulee Lheu",
+            "Kecamatan": "Meuraxa",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES / sebagian bangunan retak"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.285707, 5.553586] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 4.0,
+            "Lokasi": "TEV Escape Building Lambung",
+            "Lat": 5.554527,
+            "Lon": 95.29532,
+            "Elev": "10",
+            "Waktu_temp": "kurang dari 10 menit dari taman bermain Ulhee Lheue",
+            "Kondisi_Ra": "ada",
+            "Desa": "Lambung",
+            "Kecamatan": "Meuraxa",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES / separator kurang lebar"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.29532, 5.554527] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 5.0,
+            "Lokasi": "TEV Escape Building Deah Glumpang",
+            "Lat": 5.5599465,
+            "Lon": 95.293612,
+            "Elev": "12",
+            "Waktu_temp": "kurang dari 10 menit dari pusat keramaian Lampaseh",
+            "Kondisi_Ra": "tidak ada rambu / rambu kurang jelas",
+            "Desa": "Glumpang",
+            "Kecamatan": "Meuraxa",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES / akses jalan sempit hanya muat mobil"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.293612, 5.5599465] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 6.0,
+            "Lokasi": "TEV Escape Building Deah Teungah",
+            "Lat": 5.563599,
+            "Lon": 95.304234,
+            "Elev": "11",
+            "Waktu_temp": "kurang dari 5 menit dari SDN 48 Banda Aceh dan pusat keramaian",
+            "Kondisi_Ra": "ada / rambu sudah usang",
+            "Desa": "Deah Tengah",
+            "Kecamatan": "Meuraxa",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES / tangga roda tidak bisa diakses"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.304234, 5.563599] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 7.0,
+            "Lokasi": "Masjid Al Hidayah",
+            "Lat": 5.572337,
+            "Lon": 95.325776,
+            "Elev": "9",
+            "Waktu_temp": "15 menit dari TPI Lampulo",
+            "Kondisi_Ra": "ada / rambu ada yang miring/patah",
+            "Desa": "Lampulo",
+            "Kecamatan": "Syiah Kuala",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES / masjid sedang dalam tahap pembangunan, bangunan tinggi dan mempunyai tiang yang besar"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.325776, 5.572337] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 8.0,
+            "Lokasi": "Bukit eki momong (13 merit)",
+            "Lat": 5.501809,
+            "Lon": 95.22849,
+            "Waktu_temp": "13 menit pusat Lampuuk",
+            "Desa": "Meunasah Balee",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "UTES/Sudah ada jalan besar"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.22849, 5.501809] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 9.0,
+            "Lokasi": "Masjid Mujahidin (15 menit)",
+            "Lat": 5.50303339,
+            "Lon": 95.2505622,
+            "Waktu_temp": "15 menit dari Lampuuk",
+            "Kondisi_Ra": "Tidak ada rambu-rambu",
+            "Desa": "Meunasah Mesjid/Lamlhom",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.2505622, 5.50303339] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 10.0,
+            "Lokasi": "Mesjid Nurun Najah Nusa (5 menit)",
+            "Lat": 5.4999049,
+            "Lon": 95.268933,
+            "Waktu_temp": "10 menit dari komunitas terdekat",
+            "Kondisi_Ra": "Tidak ada",
+            "Desa": "Desa Nusa",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "UTES, 2004"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.268933, 5.4999049] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 11.0,
+            "Lokasi": "Bukit Sebun Lamlhom",
+            "Lat": 5.50690232,
+            "Lon": 95.2612482,
+            "Waktu_temp": "kurang dari 5 menit",
+            "Kondisi_Ra": "Tidak ada",
+            "Desa": "Lamlhom",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "UTES, 2004"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.2612482, 5.50690232] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 12.0,
+            "Lokasi": "Mesjid Lhoknga",
+            "Lat": 5.47807414,
+            "Lon": 95.24613529,
+            "Waktu_temp": "Pusat Lhoknga",
+            "Kondisi_Ra": "Tidak ada",
+            "Desa": "Meunasah Baro",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "UTES, 2004, lantai 2 dan 3"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.24613529, 5.47807414] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 13.0,
+            "Lokasi": "Posko 85",
+            "Lat": 5.48413725,
+            "Lon": 95.25455307,
+            "Waktu_temp": "15 menit dari Pusat Komunitas Lhoknga",
+            "Desa": "Lamgaboh",
+            "Kecamatan": "Lhoknga",
+            "Kabupaten": "A Besar",
+            "Keterangan": "TEA/ 2004"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.25455307, 5.48413725] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 14.0,
+            "Lokasi": "Mesjid Prada",
+            "Lat": 5.573277,
+            "Lon": 95.347735,
+            "Elev": "7 m, acc = 10m",
+            "Waktu_temp": "Radius ±500m, 02'30''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Peurada",
+            "Kecamatan": "Syiah Kuala",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.347735, 5.573277] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 15.0,
+            "Lokasi": "SDN 25 Banda Aceh",
+            "Lat": 5.5657531,
+            "Lon": 95.3350351,
+            "Elev": "6 m, acc = 10m",
+            "Waktu_temp": "Radius ±500m, 02'47''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Bandar Baru",
+            "Kecamatan": "Kuta Alam",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3350351, 5.5657531] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 16.0,
+            "Lokasi": "SDN 45 Banda Aceh",
+            "Lat": 5.5692826,
+            "Lon": 95.3305602,
+            "Elev": "5 m, acc = 10m",
+            "Waktu_temp": "Radius ±600m, 02'38''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Lambaro Skep",
+            "Kecamatan": "Kuta Alam",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3305602, 5.5692826] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 17.0,
+            "Lokasi": "SDN 41 Banda Aceh",
+            "Lat": 5.574016,
+            "Lon": 95.3286431,
+            "Elev": "4 m, acc = 18m",
+            "Waktu_temp": "Radius ±600m, 02'02''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Lamdingin",
+            "Kecamatan": "Kuta Alam",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3286431, 5.574016] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 18.0,
+            "Lokasi": "Mesjid Al-Ishlahiyah",
+            "Lat": 5.554712,
+            "Lon": 95.339798,
+            "Elev": "8 m, acc = 18m",
+            "Waktu_temp": "Radius ±500m, 02'02''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Lambhuk",
+            "Kecamatan": "Ulee Kareng",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.339798, 5.554712] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 19.0,
+            "Lokasi": "Mesjid Alfurqan",
+            "Lat": 5.5559229,
+            "Lon": 95.3333122,
+            "Elev": "7 m, acc = 8m",
+            "Waktu_temp": "Radius ±500m, 02'04''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Beurawe",
+            "Kecamatan": "Kuta Alam",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3333122, 5.5559229] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 20.0,
+            "Lokasi": "Mesjid Jami'",
+            "Lat": 5.5708456,
+            "Lon": 95.3715396,
+            "Elev": "14 m, acc = 34m",
+            "Waktu_temp": "Radius ± 1 km, 03'39''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Koepelma Darussalam",
+            "Kecamatan": "Syiah Kuala",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3715396, 5.5708456] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 21.0,
+            "Lokasi": "SMAN 4 Banda Aceh (Lt2 dan Lt3)",
+            "Lat": 5.5602306,
+            "Lon": 95.345876,
+            "Elev": "16.4 dan 21.4 m , acc = 5 dan 6 m",
+            "Waktu_temp": "Radius ±500m, 02'28''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Kota Baru",
+            "Kecamatan": "Kuta Alam",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.345876, 5.5602306] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 22.0,
+            "Lokasi": "Mesjid Darul Falah",
+            "Lat": 5.5661048,
+            "Lon": 95.3484632,
+            "Elev": "6.48 m , acc = 16 m",
+            "Waktu_temp": "Radius ±500m, 02'30''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Pineung",
+            "Kecamatan": "Syiah Kuala",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3484632, 5.5661048] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 23.0,
+            "Lokasi": "Kantor Keuchik Kajhu",
+            "Lat": 5.5975808,
+            "Lon": 95.3759757,
+            "Elev": "5 m, acc = 2.5 m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Kajhu",
+            "Kecamatan": "Baitussalam",
+            "Kabupaten": "Aceh Besar",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3759757, 5.5975808] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 24.0,
+            "Lokasi": "SMAN 1 Baitussalam",
+            "Lat": 5.6017005,
+            "Lon": 95.3881177,
+            "Elev": "3.32 m , acc = 16 m",
+            "Waktu_temp": "Radius ±500m, 01'53''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Klieng Cot Aron",
+            "Kecamatan": "Baitussalam",
+            "Kabupaten": "Aceh Besar",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3881177, 5.6017005] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 25.0,
+            "Lokasi": "Kantor Keuchik Lam asan",
+            "Lat": 5.6040855,
+            "Lon": 95.3989065,
+            "Elev": "6.33 m , acc = 8 m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Lam Asan",
+            "Kecamatan": "Baitussalam",
+            "Kabupaten": "Aceh Besar",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3989065, 5.6040855] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 26.0,
+            "Lokasi": "Neuheun",
+            "Lat": 5.635007,
+            "Lon": 95.418948,
+            "Elev": "93.71 m , acc = 6 m",
+            "Waktu_temp": "Turunan, Radius ±500m, 02'00''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Neuheun",
+            "Kecamatan": "Mesjid Raya",
+            "Kabupaten": "Aceh Besar",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.418948, 5.635007] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 27.0,
+            "Lokasi": "Mesjid Jami' Al-Wustha (Lt. 2 dan 3)",
+            "Lat": 5.582046,
+            "Lon": 95.350722,
+            "Elev": "22,28 dan 21,28 m, acc = 12,5 dan 6 m",
+            "Waktu_temp": "Radius ±600m, 03'17''",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Jeulingke",
+            "Kecamatan": "Syiah Kuala",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.350722, 5.582046] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 28.0,
+            "Lokasi": "Mesjid Baitussalihin",
+            "Lat": 5.5509605,
+            "Lon": 95.355415,
+            "Elev": "18.36 m , acc = 9.5 m",
+            "Waktu_temp": "Radius ±1,2 Km, 03'42''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Ceurih",
+            "Kecamatan": "Ulee Kareng",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.355415, 5.5509605] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 29.0,
+            "Lokasi": "Mesjid Jami' Lueng Bata",
+            "Lat": 5.5408375,
+            "Lon": 95.33576277,
+            "Elev": "18.57 m , acc = 5 m",
+            "Kondisi_Ra": "Tidak",
+            "Desa": "Lueng Bata",
+            "Kecamatan": "Lueng Bata",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.33576277, 5.5408375] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 30.0,
+            "Lokasi": "Stadion Harapan Bangsa",
+            "Lat": 5.521454,
+            "Lon": 95.324134,
+            "Waktu_temp": "Radius ±500m, 01'50''",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Lhong Raya",
+            "Kecamatan": "Banda Raya",
+            "Kabupaten": "Banda Aceh",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.324134, 5.521454] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 31.0,
+            "Lokasi": "Masjid Baitul Izzah",
+            "Lat": 5.1374,
+            "Lon": 95.3379,
+            "Elev": "6",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Meudheun",
+            "Kecamatan": "Jaya",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3379, 5.1374] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 32.0,
+            "Lokasi": "Masjid Sabang",
+            "Lat": 5.084,
+            "Lon": 95.36264,
+            "Elev": "14, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Leupe",
+            "Kecamatan": "Jaya",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.36264, 5.084] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 33.0,
+            "Lokasi": "Bukit Keubupo",
+            "Lat": 5.00915,
+            "Lon": 95.36756,
+            "Elev": "44, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Keude Unga",
+            "Kecamatan": "Indra Jaya",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.36756, 5.00915] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 34.0,
+            "Lokasi": "SDN 5 Indra Jaya",
+            "Lat": 5.00849,
+            "Lon": 95.3718,
+            "Elev": "8",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Keude unga",
+            "Kecamatan": "Indra Jaya",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.3718, 5.00849] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 35.0,
+            "Lokasi": "Masjid Magfirah",
+            "Lat": 4.98011,
+            "Lon": 95.37999,
+            "Elev": "3",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Cheunamprong",
+            "Kecamatan": "Indra Jaya",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.37999, 4.98011] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 36.0,
+            "Lokasi": "Gunung Meundang/Gunung PT PPP",
+            "Lat": 4.90333,
+            "Lon": 95.40203,
+            "Elev": "11 (Kaki Gunung)",
+            "Kondisi_Ra": "Ada Rambu",
+            "Desa": "Crak Mong",
+            "Kecamatan": "Sampoiniet",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.40203, 4.90333] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 37.0,
+            "Lokasi": "Gunung Manyang",
+            "Lat": 4.89611,
+            "Lon": 95.41687,
+            "Elev": "5 (Kaki gunung)",
+            "Kondisi_Ra": "Ada Rambu",
+            "Desa": "Blang Mon Leung",
+            "Kecamatan": "Sampoiniet",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.41687, 4.89611] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 38.0,
+            "Lokasi": "Glee Pemancar",
+            "Lat": 4.87912,
+            "Lon": 95.40345,
+            "Elev": "28",
+            "Kondisi_Ra": "Ada Rambu (Tidak lengkap)",
+            "Desa": "Lhok Kruet",
+            "Kecamatan": "Sampoiniet",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.40345, 4.87912] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 39.0,
+            "Lokasi": "Bukit Ujung Glee",
+            "Lat": 4.82668,
+            "Lon": 95.46918,
+            "Elev": "6",
+            "Kondisi_Ra": "Ada Rambu (Tidak lengkap)",
+            "Desa": "Jempheuk",
+            "Kecamatan": "Sampoiniet",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.46918, 4.82668] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 40.0,
+            "Lokasi": "Gunong Lhok Batee",
+            "Lat": 4.80277,
+            "Lon": 95.46918,
+            "Elev": "40",
+            "Kondisi_Ra": "Ada Rambu (Tidak lengkap)",
+            "Desa": "Blang Dalam",
+            "Kecamatan": "Darul Hikmah",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (Menurut warga akan dibangun escape building)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.46918, 4.80277] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 41.0,
+            "Lokasi": "Glee patek",
+            "Lat": 4.78576,
+            "Lon": 95.46014,
+            "Elev": "7",
+            "Kondisi_Ra": "Tidak Ada rambu",
+            "Desa": "Patek",
+            "Kecamatan": "Darul Hikmah",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.46014, 4.78576] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 42.0,
+            "Lokasi": "Gedung Lama Dinas Sosial Aceh jaya",
+            "Lat": 4.63547,
+            "Lon": 95.58346,
+            "Elev": "4",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Blang Calang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES (Lantai 2 dan 3)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.58346, 4.63547] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 43.0,
+            "Lokasi": "Masjid Agung Calang",
+            "Lat": 4.63849,
+            "Lon": 95.59516,
+            "Elev": "4",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Blang Calang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.59516, 4.63849] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 44.0,
+            "Lokasi": "Escape Building BPBK Aceh Jaya",
+            "Lat": 4.63523,
+            "Lon": 95.58225,
+            "Elev": "4",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Blang Calang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES(Lantai 2,3, dan 4)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.58225, 4.63523] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 45.0,
+            "Lokasi": "Gunung Carak/Bukit TVRI",
+            "Lat": 4.63393,
+            "Lon": 95.57954,
+            "Elev": "25",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Sentosa",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (Ada 5 tower disekitar pemukiman kaki bukit)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.57954, 4.63393] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 46.0,
+            "Lokasi": "Bukit Panton",
+            "Lat": 4.64343,
+            "Lon": 95.58855,
+            "Elev": "4 (Kaki Bukit)",
+            "Kondisi_Ra": "Ada (Sudah usang)",
+            "Desa": "Blang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (ada 1 tower di kaki bukit)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.58855, 4.64343] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 47.0,
+            "Lokasi": "Bukit Jl Gunung Sanggreng",
+            "Lat": 4.63286,
+            "Lon": 95.59741,
+            "Elev": "8 (Kaki Bukit)",
+            "Kondisi_Ra": "Ada (Sudah usang)",
+            "Desa": "Keutapang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.59741, 4.63286] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 48.0,
+            "Lokasi": "Bukit Kompi Jl Gunung Genteng",
+            "Lat": 4.63322,
+            "Lon": 95.6047,
+            "Elev": "16 (Kaki Bukit)",
+            "Kondisi_Ra": "Ada (Sudah usang)",
+            "Desa": "Keutapang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.6047, 4.63322] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 49.0,
+            "Lokasi": "Bukit belakang kantor Bupati Aceh Jaya",
+            "Lat": 4.62555,
+            "Lon": 95.61783,
+            "Elev": "11(kaki Bukit)",
+            "Kondisi_Ra": "Tidak Ada rambu",
+            "Desa": "Keutapang",
+            "Kecamatan": "Krueng sabe",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.61783, 4.62555] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 50.0,
+            "Lokasi": "Alue Paku",
+            "Lat": 4.60964,
+            "Lon": 95.64022,
+            "Elev": "16, acc 3m",
+            "Kondisi_Ra": "Tidak Ada Rambu",
+            "Desa": "Mon Mata",
+            "Kecamatan": "Krueng Sabee",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES(Rawan longsor karna sudah dikerok)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.64022, 4.60964] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 51.0,
+            "Lokasi": "Masjid Baiturrahim /Gunong Masjid",
+            "Lat": 4.61245,
+            "Lon": 95.65196,
+            "Elev": "35, acc 3m",
+            "Kondisi_Ra": "Tidak Ada Rambu",
+            "Desa": "Datar Luas",
+            "Kecamatan": "Krueng Sabee",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES (ada 1 tower didepan)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.65196, 4.61245] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 52.0,
+            "Lokasi": "Gunung Malem",
+            "Lat": 4.73189,
+            "Lon": 95.51086,
+            "Elev": "15 (Kaki Gunung)",
+            "Kondisi_Ra": "Tidak Ada rambu",
+            "Desa": "Sawang",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.51086, 4.73189] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 53.0,
+            "Lokasi": "Gunung Rubek",
+            "Lat": 4.7135,
+            "Lon": 95.51981,
+            "Elev": "10, acc 5m (Kaki Gunung)",
+            "Kondisi_Ra": "Tidak Ada rambu",
+            "Desa": "Lhok Geulumpang",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.51981, 4.7135] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 54.0,
+            "Lokasi": "Gunung Kuali",
+            "Lat": 4.67168,
+            "Lon": 0.0,
+            "Elev": "10, acc 3m (700 m dari TES)",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Lhok Timun",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": null
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 55.0,
+            "Lokasi": "SMPN 1 Setia Bakti",
+            "Lat": 4.71428,
+            "Lon": 95.51875,
+            "Elev": "3",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Lhok geulumpang",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.51875, 4.71428] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 56.0,
+            "Lokasi": "Bukit Gampong Lhok Buya",
+            "Lat": 4.66148,
+            "Lon": 95.5918,
+            "Elev": "30 (kaki bukit)",
+            "Kondisi_Ra": "Ada (Sudah usang)",
+            "Desa": "Lhok Buya",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.5918, 4.66148] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 57.0,
+            "Lokasi": "Bukit Lhok Bot",
+            "Lat": 4.67923,
+            "Lon": 95.6066,
+            "Elev": "20 (kaki bukit)",
+            "Kondisi_Ra": "Tidak Ada rambu",
+            "Desa": "Lhok Bot",
+            "Kecamatan": "Setia Bakti",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.6066, 4.67923] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 58.0,
+            "Lokasi": "Gunung Drien",
+            "Lat": 4.55942,
+            "Lon": 95.72027,
+            "Elev": "11",
+            "Kondisi_Ra": "Ada (Tidak lengkap)",
+            "Desa": "Kuta Tuha",
+            "Kecamatan": "Panga",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (Menurut warga akan dibangun escape building)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.72027, 4.55942] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 59.0,
+            "Lokasi": "Bukit Goyo",
+            "Lat": 4.50205,
+            "Lon": 95.78505,
+            "Elev": "10, acc 4m",
+            "Kondisi_Ra": "Ada (Tidak lengkap)",
+            "Desa": "Seunebok Padang",
+            "Kecamatan": "Tenom",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES(Jarak TES dengan titik sekitar 2km"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.78505, 4.50205] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 60.0,
+            "Lokasi": "Gunong Batee",
+            "Lat": 4.4701,
+            "Lon": 95.80614,
+            "Elev": "16, acc 7m",
+            "Kondisi_Ra": "Ada (Tidak lengkap)",
+            "Desa": "Tanah Manyang",
+            "Kecamatan": "Tenom",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.80614, 4.4701] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 61.0,
+            "Lokasi": "Masjid Baiturrahman Tenom",
+            "Lat": 4.44666,
+            "Lon": 95.81158,
+            "Elev": "14, acc 6m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Keudeu Tenom",
+            "Kecamatan": "Tenom",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (Lantai 2,3 dan 4)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.81158, 4.44666] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 62.0,
+            "Lokasi": "Perkebunan Cot Teubee",
+            "Lat": 4.428,
+            "Lon": 95.84354,
+            "Elev": "14, acc 4m",
+            "Kondisi_Ra": "Ada (Tidak lengkap)",
+            "Desa": "Cot Teubee",
+            "Kecamatan": "Tenom",
+            "Kabupaten": "Aceh Jaya",
+            "Keterangan": "TES (Jalur harus melalui jembatan yang sudah tua)"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.84354, 4.428] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 63.0,
+            "Lokasi": "Lahan Bebas Inundasi (1)",
+            "Lat": 4.119639,
+            "Lon": 96.19597,
+            "Elev": "7 m, acc = 5m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Peunaga Cut Ujong",
+            "Kecamatan": "Meureubo",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.19597, 4.119639] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 64.0,
+            "Lokasi": "Gedung Universitas Tengku Umar",
+            "Lat": 4.147822,
+            "Lon": 96.19914,
+            "Elev": "10 m, acc = 10m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Ujong Tanah Darat",
+            "Kecamatan": "Meureubo",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.19914, 4.147822] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 65.0,
+            "Lokasi": "Gedung Puskesmas Meureubo",
+            "Lat": 4.139603,
+            "Lon": 96.1702,
+            "Elev": "12 m, acc = 7m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Paya Peunaga",
+            "Kecamatan": "Meureubo",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.1702, 4.139603] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 66.0,
+            "Lokasi": "Dayah Terpadu Zainatul Ulum Abar",
+            "Lat": 4.153413,
+            "Lon": 96.15468,
+            "Elev": "9 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Ujong Tanjong",
+            "Kecamatan": "Meureubo",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.15468, 4.153413] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 67.0,
+            "Lokasi": "MIN Drien Rampak",
+            "Lat": 4.159964,
+            "Lon": 96.13337,
+            "Elev": "8 m, acc = 10m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Drien Rampak",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.13337, 4.159964] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 68.0,
+            "Lokasi": "Kantor KKP Aceh Barat",
+            "Lat": 4.16065,
+            "Lon": 96.12449,
+            "Elev": "14 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Seuneubok",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.12449, 4.16065] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 69.0,
+            "Lokasi": "Kantor PLN",
+            "Lat": 4.170997,
+            "Lon": 96.11421,
+            "Elev": "12 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Seuneubok",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.11421, 4.170997] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 70.0,
+            "Lokasi": "MIN 21 Aceh Barat",
+            "Lat": 4.179695,
+            "Lon": 96.11303,
+            "Elev": "4 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Seuneubok",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.11303, 4.179695] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 71.0,
+            "Lokasi": "Lahan Bebas Inundasi (2)",
+            "Lat": 4.182599,
+            "Lon": 96.10603,
+            "Elev": "2 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Suak Raya",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.10603, 4.182599] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 72.0,
+            "Lokasi": "Lahan Bebas Inundasi (3)",
+            "Lat": 4.1861,
+            "Lon": 96.10123,
+            "Elev": "4 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Suak Raya",
+            "Kecamatan": "Johan Pahlawan",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.10123, 4.1861] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 73.0,
+            "Lokasi": "Masjid Baitul Makmur",
+            "Lat": 4.31464,
+            "Lon": 95.96457,
+            "Elev": "12, acc 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Drien Rampok",
+            "Kecamatan": "Arongan Lambalek",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.96457, 4.31464] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 74.0,
+            "Lokasi": "Lapangan Gp Teupin Peuraho",
+            "Lat": 4.3112,
+            "Lon": 95.97713,
+            "Elev": "11, acc 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Teupin Peuraho",
+            "Kecamatan": "Arongan Lambalek",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.97713, 4.3112] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 75.0,
+            "Lokasi": "SMKN 1 Samatiga",
+            "Lat": 4.21608,
+            "Lon": 96.07658,
+            "Elev": "9, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Cot Pluh",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.07658, 4.21608] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 76.0,
+            "Lokasi": "Masjid Asy Syuhada",
+            "Lat": 4.22359,
+            "Lon": 96.06541,
+            "Elev": "14, acc 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Cot Pluh",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.06541, 4.22359] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 77.0,
+            "Lokasi": "Masjid Al Munawwarah",
+            "Lat": 4.20593,
+            "Lon": 96.06259,
+            "Elev": "11, acc 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Cot Pluh",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "UTES (Lantai 2)"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.06259, 4.20593] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 78.0,
+            "Lokasi": "Gedung Serbaguna Gp Alue Raya",
+            "Lat": 4.22977,
+            "Lon": 96.04529,
+            "Elev": "20, acc 6m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Alue Raya",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.04529, 4.22977] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 79.0,
+            "Lokasi": "MIN 6 Aceh Barat",
+            "Lat": 4.21545,
+            "Lon": 96.03348,
+            "Elev": "12, acc 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "COT",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.03348, 4.21545] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 80.0,
+            "Lokasi": "SMPN 3 Samatiga",
+            "Lat": 4.23906,
+            "Lon": 96.00538,
+            "Elev": "10, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Suak panteu Breuh",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.00538, 4.23906] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 81.0,
+            "Lokasi": "Perkebunan PT Prima Agro Aceh Lestari",
+            "Lat": 4.26032,
+            "Lon": 95.99339,
+            "Elev": "12, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Suak Geudubang",
+            "Kecamatan": "Samatiga",
+            "Kabupaten": "Aceh Barat",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [95.99339, 4.26032] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 82.0,
+            "Lokasi": "Lahan Bebas Inundasi (1)",
+            "Lat": 3.946543,
+            "Lon": 96.33521,
+            "Elev": "8 m, acc = 10m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Cot mu",
+            "Kecamatan": "Tadu Raya",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.33521, 3.946543] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 83.0,
+            "Lokasi": "Lahan Bebas Inundasi (2)",
+            "Lat": 3.891644,
+            "Lon": 96.37073,
+            "Elev": "6 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Kuala Tripa",
+            "Kecamatan": "Tripa Makmur",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.37073, 3.891644] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 84.0,
+            "Lokasi": "Lahan Bebas Inundasi (3)",
+            "Lat": 3.899556,
+            "Lon": 96.36138,
+            "Elev": "4 m, acc = 5m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Kuala Tripa",
+            "Kecamatan": "Tripa Makmur",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.36138, 3.899556] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 85.0,
+            "Lokasi": "Lahan Bebas Inundasi (4)",
+            "Lat": 3.969523,
+            "Lon": 96.3248,
+            "Elev": "16 m, acc = 11m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Cot me",
+            "Kecamatan": "Tadu Raya",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.3248, 3.969523] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 86.0,
+            "Lokasi": "SDN COTMEE",
+            "Lat": 3.9753,
+            "Lon": 96.31602,
+            "Elev": "8 m, acc = 11m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Cot me",
+            "Kecamatan": "Tadu Raya",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.31602, 3.9753] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 87.0,
+            "Lokasi": "SMPN 5 Kuala",
+            "Lat": 3.989305,
+            "Lon": 96.30633,
+            "Elev": "7 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Cot Rambong",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.30633, 3.989305] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 88.0,
+            "Lokasi": "Lahan Bebas Inundasi (5)",
+            "Lat": 3.998605,
+            "Lon": 96.2995,
+            "Elev": "4 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Cot Rambong",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.2995, 3.998605] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 89.0,
+            "Lokasi": "Lahan Bebas Inundasi (6)",
+            "Lat": 4.01866,
+            "Lon": 96.28632,
+            "Elev": "1 m, acc = 4m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Kuala Trang",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.28632, 4.01866] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 90.0,
+            "Lokasi": "Lahan Bebas Inundasi (7)",
+            "Lat": 4.028099,
+            "Lon": 96.28007,
+            "Elev": "13 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Kuala Trang",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.28007, 4.028099] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 91.0,
+            "Lokasi": "Masjid AL-Huda",
+            "Lat": 4.037338,
+            "Lon": 96.26354,
+            "Elev": "4 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Kuala Trang",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.26354, 4.037338] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 92.0,
+            "Lokasi": "Lahan Bebas Inundasi (8)",
+            "Lat": 4.05144,
+            "Lon": 96.26021,
+            "Elev": "5 m, acc = 4m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Kubang Gajah",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.26021, 4.05144] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 93.0,
+            "Lokasi": "Masjid Jamik Baiturrahim",
+            "Lat": 4.09456,
+            "Lon": 96.20871,
+            "Elev": "10, acc 3m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Suak Puntong",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.20871, 4.09456] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 94.0,
+            "Lokasi": "MIN 13 Nagan Raya",
+            "Lat": 4.04981,
+            "Lon": 96.24911,
+            "Elev": "13, acc 3m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Kubang Gajah",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.24911, 4.04981] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 95.0,
+            "Lokasi": "Masjid Nurul Ikhlas&TPA Muqaddasah",
+            "Lat": 4.06158,
+            "Lon": 96.23969,
+            "Elev": "10, acc 3m",
+            "Kondisi_Ra": "Ada",
+            "Desa": "Gampong langkak",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "TES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.23969, 4.06158] }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "tessellate": -1,
+            "extrude": 0,
+            "visibility": -1,
+            "No": 96.0,
+            "Lokasi": "Masjid Padang Rubek",
+            "Lat": 4.07609,
+            "Lon": 96.23474,
+            "Elev": "13, acc 5m",
+            "Kondisi_Ra": "Tidak ada rambu",
+            "Desa": "Padang Rubek",
+            "Kecamatan": "Kuala Pesisir",
+            "Kabupaten": "Nagan Raya",
+            "Keterangan": "UTES"
+        },
+        "geometry": { "type": "Point", "coordinates": [96.23474, 4.07609] }
+    }
+]
